@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("hello git version 3");
         System.out.println("hello git hot fix version 1");
         System.out.println("hello git version 4");
+        System.out.println("hello git hot fix version 2");
     }
 }
